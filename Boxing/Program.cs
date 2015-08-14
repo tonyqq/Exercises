@@ -9,6 +9,7 @@ namespace Boxing
             int i = 42;
 
             object o = i;
+            // object o = object(i); // explicit boxing
 
             i = 43;
 
